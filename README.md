@@ -15,4 +15,5 @@ This tool is aimed at strategists and cricket enthusiasts who are interested in 
 - **Optimization**: Assists in optimizing team selection and game tactics.
 
 ## License
-Information about the project's license will be added here.
+ Apache License Version 2.0, January 2004
+  http://www.apache.org/licenses/
